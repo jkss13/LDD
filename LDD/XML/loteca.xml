@@ -1,0 +1,14 @@
+<loteca concurso="1234" data="2023-04-22">
+  <jogo resultado="M">
+    <mandante>Flamengo</mandante>
+    <visitante>Vasco da Gama</visitante>
+  </jogo>
+  <jogo resultado="E">
+    <mandante>São Paulo</mandante>
+    <visitante>Palmeiras</visitante>
+  </jogo>
+  <jogo resultado="V">
+    <mandante>Internacional</mandante>
+    <visitante>Grêmio</visitante>
+  </jogo>
+</loteca>

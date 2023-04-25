@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phonebook>
+    <company>
+        <cname>Microsoft</cname>
+        <exchange>09-999000</exchange>
+        <president>Bill Gates
+            <extension>09-9990011</extension>
+        </president>
+        <secretary>Katharine Finch 
+            <extension>09-9990012</extension>
+        </secretary>
+    </company> <!-- tags de abertura e fechamento da tag "president" e da tag "secretary" precisavam estar dentro das tags "company" e estavam com a tag errada, faltando a barra antes do nome da tag -->
+    <company>
+        <cname>Oracle</cname>
+        <exchange>09-888000</exchange>
+        <president>Larry Ellison
+            <extension>09-8880011</extension>
+        </president>
+        <secretary>Helen Calhoun
+            <extension>09-8880012</extension>
+        </secretary> 
+    </company>
+</phonebook>
+<!-- as tags de fechamento da tag "extension" precisavam estar dentro das tags "president" e "secretary" -->

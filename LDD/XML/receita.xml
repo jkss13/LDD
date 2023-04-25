@@ -1,0 +1,49 @@
+<receita>
+  <tempo-preparo unidade="minutos">40</tempo-preparo>
+  <rendimento>4 porções</rendimento>
+  <ingredientes>
+    <ingrediente unidade="gramas">
+      <nome>Arroz</nome>
+      <quantidade>200</quantidade>
+    </ingrediente>
+    <ingrediente unidade="ml">
+      <nome>Água</nome>
+      <quantidade>400</quantidade>
+    </ingrediente>
+    <ingrediente unidade="colheres de sopa">
+      <nome>Azeite</nome>
+      <quantidade>2</quantidade>
+    </ingrediente>
+    <ingrediente unidade="gramas">
+      <nome>Cebola</nome>
+      <quantidade>50</quantidade>
+    </ingrediente>
+    <ingrediente unidade="gramas">
+      <nome>Alho</nome>
+      <quantidade>10</quantidade>
+    </ingrediente>
+    <ingrediente unidade="gramas">
+      <nome>Tomate</nome>
+      <quantidade>200</quantidade>
+    </ingrediente>
+    <ingrediente unidade="gramas">
+      <nome>Cenoura</nome>
+      <quantidade>100</quantidade>
+    </ingrediente>
+    <ingrediente unidade="gramas">
+      <nome>Ervilha</nome>
+      <quantidade>100</quantidade>
+    </ingrediente>
+    <ingrediente unidade="gramas">
+      <nome>Frango desfiado</nome>
+      <quantidade>300</quantidade>
+    </ingrediente>
+  </ingredientes>
+  <modo-preparo>
+    Em uma panela, aqueça o azeite e refogue a cebola e o alho até dourar.
+    Adicione o tomate picado e cozinhe por 5 minutos.
+    Acrescente a cenoura, a ervilha e o frango desfiado.
+    Adicione o arroz e refogue por 2 minutos.
+    Adicione a água e deixe cozinhar em fogo baixo por cerca de 20 minutos ou até que a água seque e o arroz esteja cozido.
+  </modo-preparo>
+</receita>

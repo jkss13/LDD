@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parts>
+    <part>
+        <name>Widget</name>
+        <catalog_number>11037</catalog_number> <!-- <catalog.number> para <catalog_number> -->
+        <price_code>4</price_code> <!-- <price.code> para <price_code> -->
+        <quantity>1</quantity> <!-- tag <quantity> de d</quantity> para 1</quantity> e reposicionamento e fechamento da tag  -->
+    </part>
+    <part>
+        <name>Bolt</name>
+        <catalog_number>11497</catalog_number>
+        <thread>w</thread>
+        <price_code>1</price_code>
+        <quantity>100</quantity>
+    </part>
+    <part>
+        <name>Screw</name>
+        <catalog_number>10020</catalog_number>
+        <type>countersunk</type>
+        <price_code>7</price_code>
+        <quantity>c</quantity>
+    </part>
+</parts>
